@@ -1,1 +1,0 @@
-# .NET-Yazilim-Gelistirici-Yetistirme-Kampi-2024
