@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\KodlamaIoDemo\KodlamaIoDemo\bin\Debug\net8.0\KodlamaIoDemo.exe
+C:\Users\user\source\repos\KodlamaIoDemo\KodlamaIoDemo\bin\Debug\net8.0\KodlamaIoDemo.deps.json
+C:\Users\user\source\repos\KodlamaIoDemo\KodlamaIoDemo\bin\Debug\net8.0\KodlamaIoDemo.runtimeconfig.json
+C:\Users\user\source\repos\KodlamaIoDemo\KodlamaIoDemo\bin\Debug\net8.0\KodlamaIoDemo.dll
+C:\Users\user\source\repos\KodlamaIoDemo\KodlamaIoDemo\bin\Debug\net8.0\KodlamaIoDemo.pdb
+C:\Users\user\source\repos\KodlamaIoDemo\KodlamaIoDemo\obj\Debug\net8.0\KodlamaIoDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\KodlamaIoDemo\KodlamaIoDemo\obj\Debug\net8.0\KodlamaIoDemo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\KodlamaIoDemo\KodlamaIoDemo\obj\Debug\net8.0\KodlamaIoDemo.AssemblyInfo.cs
+C:\Users\user\source\repos\KodlamaIoDemo\KodlamaIoDemo\obj\Debug\net8.0\KodlamaIoDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KodlamaIoDemo\KodlamaIoDemo\obj\Debug\net8.0\KodlamaIoDemo.dll
+C:\Users\user\source\repos\KodlamaIoDemo\KodlamaIoDemo\obj\Debug\net8.0\refint\KodlamaIoDemo.dll
+C:\Users\user\source\repos\KodlamaIoDemo\KodlamaIoDemo\obj\Debug\net8.0\KodlamaIoDemo.pdb
+C:\Users\user\source\repos\KodlamaIoDemo\KodlamaIoDemo\obj\Debug\net8.0\KodlamaIoDemo.genruntimeconfig.cache
+C:\Users\user\source\repos\KodlamaIoDemo\KodlamaIoDemo\obj\Debug\net8.0\ref\KodlamaIoDemo.dll
